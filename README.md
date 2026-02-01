@@ -31,7 +31,7 @@ Todo o conteúdo gerado pelo NotebookLM tem como base apenas as fontes previamen
 - artigos para educação financceira;
 - livros de finanças pessoais.
   
-Confira as fontes completas em **[/fontes](./fontes)**.
+Confira as fontes completas utilizadas no projeto na pasta [fontes](./fontes).
 
 ---
 
